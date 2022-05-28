@@ -1,10 +1,11 @@
-Hi 👋 My name is JuanFer Podestá
+Hi 👋 My name is JuanFerPodestá
 =============================
 
 Front-End Developer (just for now)
 ----------------------------------
 
-I'm an accountant from Argentina looking for his first job opportunity in the IT industry. I consider myself a very curious person, who loves learning new things and passionate about solving problems.
+I'm an accountant from Argentina looking for his first job opportunity in the IT industry. 
+I consider myself a very curious person, who loves learning new things and passionate about solving problems.
 
 * 🌍  I'm based in Rosario, Santa Fé, Argentina
 * ✉️  You can contact me at [juan.fernando.podesta@gmail.com](mailto:juan.fernando.podesta@gmail.com)
