@@ -4,7 +4,7 @@ Hi 👋 My name is JuanFerPodestá
 Jr. Data Engineer 
 ----------------------------------
 
-My name is Juan, I'm an accountant with over 10 years of experience in administrative roles. I've worked in various companies across different industries.
+I'm an accountant with over 10 years of experience in administrative roles. I've worked in various companies across different industries.
 
 During the Covid-19 pandemic, I started developing myself as a self-taught programmer, focusing on data science. Currently, I'm working at a native tech company, growing as a Data Engineer.
 
