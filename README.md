@@ -4,8 +4,13 @@ Hi 👋 My name is JuanFerPodestá
 Front-End Developer (just for now)
 ----------------------------------
 
-I'm an accountant from Argentina looking for his first job opportunity in the IT industry. 
-I consider myself a very curious person, who loves learning new things and passionate about solving problems.
+My name is Juan, I'm an accountant with over 10 years of experience in administrative roles. I've worked in various companies across different industries.
+
+During the Covid-19 pandemic, I started developing myself as a self-taught programmer, focusing on data science. Currently, I'm working at a native tech company, growing as a Data Engineer.
+
+I'm a curious person who loves learning new things. I'm passionate about problem-solving and technology. 
+
+My current objective is to continue learning within the IT industry, seeking to enrich my career as a developer and contribute to the growth of the company I currently work for.
 
 * 🌍  I'm based in Rosario, Santa Fé, Argentina
 * ✉️  You can contact me at [juan.fernando.podesta@gmail.com](mailto:juan.fernando.podesta@gmail.com)
